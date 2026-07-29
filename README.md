@@ -1,6 +1,6 @@
 # Hi👋, I am Marwa Amin 
 <p align="center">
-  <img src="https://github.com/NexusSoft204/NexusSoft204/blob/main/image_953b889b.png" width="100%"/>
+  <img src="https://www.google.com/imgres?q=code.gif&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Ff%2Ff5%2FComputer-screen-code-glitch-animation-gif-background-free.gif&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AComputer-screen-code-glitch-animation-gif-background-free.gif&docid=SKkPKHEGSSF-pM&tbnid=2dBpM_c5pBzixM&vet=12ahUKEwj7_6-u-PeVAxUfgP0HHZJFDGwQnPAOegQINxAA..i&w=2500&h=1669&hcb=2&ved=2ahUKEwj7_6-u-PeVAxUfgP0HHZJFDGwQnPAOegQINxAA" width="100%"/>
 </p>
 
 🚀 Building Smart Digital Solutions

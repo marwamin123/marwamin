@@ -3,17 +3,16 @@
   <img src="" width="100%"/>
 </p>
 
-🚀 Building Smart Digital Solutions
+🚀 Learning to Build the Digital World
 
-We build modern digital products and software solutions that help businesses grow and transform ideas into reality.
-
+Coding my way into the future: Learning to build smart software and turn big ideas into digital reality.
 ---
 
-## 🏢 About Nexus Soft
+## 🏢 About Marwa Amin
 
-Nexus Soft is a software company focused on developing modern and scalable digital solutions. We specialize in creating websites, mobile applications, AI-powered systems, marketplace platforms, and job solutions.
+I am a software engineer and digital product developer dedicated to building modern, scalable digital solutions. I specialize in crafting high-performance websites, mobile applications, and smart systems that help businesses grow and transform ideas into reality.
 
-Our goal is to deliver high-quality, innovative, and user-friendly products.
+Turning ideas into reality, one line of code at a time. Currently expanding my tech stack and building modern projects.
 
 ---
 
@@ -82,10 +81,9 @@ Creating innovative software solutions that empower businesses and users through
 
 ## 📫 Contact Us
 
-🌍 Website: nexussoft.af
+🌍 Website: 
 
-📧 Email: contact@nexussoft.af
-📧 Email: nexusst26@gmail.com
+📧 Email: marwaamiin123@gmail.com
 
 📍 Location: Kabul, Afghanistan
 
